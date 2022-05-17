@@ -50,7 +50,7 @@ namespace webapi_login.Controllers
                 return Ok(obj);
             return BadRequest();
         }
-
+        
         [HttpGet("{u}/uname/{p}/pwd")]
         public IActionResult Login(string u, string p)
         {

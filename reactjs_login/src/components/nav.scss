@@ -1,0 +1,18 @@
+.nav{
+    height: 10vh;
+    width: 100%;
+    position: sticky;
+    display: flex;
+
+    .links {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 60px;
+        overflow: hidden;
+
+        a{
+            margin-right: 2vw;
+        }
+    }
+}
