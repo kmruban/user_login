@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = webapi_login
+build_property.ProjectDir = /Users/kyle/projects/users/webapi_login/webapi_login/
